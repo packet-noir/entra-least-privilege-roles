@@ -1,2 +1,25 @@
-# entra-least-privilege-roles
-Implement principle of least privilege when assigning roles in Entra
+# Project Overview
+
+
+
+# Business Scenario
+
+
+
+# Tools Used
+
+
+
+# What I Built
+
+
+
+# Screenshots
+
+
+
+# Security Lessons Learned
+
+
+
+# Future Improvements
