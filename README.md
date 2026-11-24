@@ -20,19 +20,19 @@ Assigned least privilege roles to three IT staff members at Northwind. Created t
 
 ### Role List
 
-[!List of roles](/screenshots/roles_list@2x.png)
+![List of roles](/screenshots/roles_list@2x.png)
 
 ### Assigned Role
 
-[!Role mapped to user](/screenshots/assigned-role@2x.png)
+![Role mapped to user](/screenshots/assigned-role@2x.png)
 
 ### Insufficient Permissions
 
-[!Missing the Create Users capability](/screenshots/permission_boundary_for_helpdesk@2x.png)
+![Missing the Create Users capability](/screenshots/permission_boundary_for_helpdesk@2x.png)
 
 ### Role Assignment Audit Logs
 
-[!Role management logs](/screenshots/roleassignment_activity_logs@2x.png)
+![Role management logs](/screenshots/roleassignment_activity_logs@2x.png)
 
 ## Security Lessons Learned
 
