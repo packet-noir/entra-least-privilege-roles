@@ -36,6 +36,8 @@ Assigned least privilege roles to three IT staff members at Northwind. Created t
 
 ## Security Lessons Learned
 
-
+The principle of least privilege is about precisely mapping an appropriate set of permissions to the right targets, without giving users more control and access than their role requires. 
 
 ## Future Improvements
+
+Leverage additional features available in premium licenses like assigning roles to groups and privileged access management.  
