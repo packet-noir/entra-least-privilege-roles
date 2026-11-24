@@ -1,4 +1,4 @@
-# Northwind Services IT Administrators
+# Principle of Least Privilege at Northwind
 
 ## Project Overview
 
