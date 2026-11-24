@@ -28,7 +28,7 @@ Assigned least privilege roles to three IT staff members at Northwind. Created t
 
 ### Insufficient Permissions
 
-![Missing the Create Users capability](/screenshots/permission_boundary_for_helpdesk@2x.png)
+![Missing the Create Users capability](/screenshots/permission_boundary_for_helpdeskadmin@2x.png)
 
 ### Role Assignment Audit Logs
 
